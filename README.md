@@ -1,5 +1,5 @@
 # quiz-game
-Simple quiz game for learning Unity UI
+Simple quiz game for learning Unity UI using GameDev.TV Unity 2D course.  All art assets were used with permission for this project/class work, and are NOT licensed for commercial redistribution without consent/permission of GameDev.TV!  Please replace any art assets if you choose to use the included project.
  
  Questions are set as a scriptable object using the following format:
  - Question Text
